@@ -5,7 +5,7 @@ from tkinter import messagebox
 db=database("employees.db")
 
 root=Tk()
-root.title("Shivem management system")
+root.title("Employees management system")
 root.geometry("1366x768+0+0")
 root.config(bg="#2c3e50")
 # root.state("zoomed")
